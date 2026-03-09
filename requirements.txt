@@ -1,0 +1,15 @@
+# Suno Backup Tool — Python dependencies
+# Install with:  pip install -r requirements.txt
+# (setup_and_run.py handles this automatically inside a venv)
+
+playwright>=1.40.0
+requests>=2.31.0
+tqdm>=4.66.0
+cryptography>=41.0.0
+mutagen>=1.47.0
+PySide6>=6.6.0
+pyinstaller>=6.3.0
+
+# Future async HTTP (not yet used; kept for planned aiohttp migration)
+# aiofiles>=23.0.0
+# aiohttp>=3.9.0

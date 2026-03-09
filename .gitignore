@@ -1,0 +1,27 @@
+# Suno Backup ignore
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# App specific
+.suno_vault
+.vault_salt
+.gui_config.json
+.gui_selected_ids.txt
+suno_session/
+
+# Default output
+suno_library/
+
+# Build
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Tests
+.pytest_cache/
+.coverage
