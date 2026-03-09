@@ -16,6 +16,7 @@ Your Suno library, downloaded locally. Every format. Every track. One click.
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-FDF6EC?style=flat-square)](#quick-start)
 [![License](https://img.shields.io/badge/License-MIT-FF8C55?style=flat-square)](#)
 [![Suno Pro](https://img.shields.io/badge/Suno-Pro%20%E2%9C%93-FF6B2B?style=flat-square)](https://suno.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amourification)
 
 <br/>
 
@@ -274,6 +275,12 @@ cryptography >= 41.0  vault encryption
 ---
 
 <div align="center">
+
+**Enjoying the tool?**  
+<a href="https://buymeacoffee.com/amourification" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+
+<br/>
+<br/>
 
 Made for Suno creators who want to own their music. 🎶
 
